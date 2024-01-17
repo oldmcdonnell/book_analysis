@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48e77516-da73-4855-b90f-dd0bfa2da28b" name="Changes" comment="most common words finding dataSadded new jupyter file. seach most words without articles using import nltk&#10;from nltk.corpus import stopwords">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/book_analysis2-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/book_analysis2-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book_analysis2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/book_analysis2.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="48e77516-da73-4855-b90f-dd0bfa2da28b" name="Changes" comment="using analyzer.polarity_scores" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705444183068</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="using analyzer.polarity_scores">
+      <option name="closed" value="true" />
+      <created>1705454239591</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1705454239591</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -127,7 +131,8 @@
     <MESSAGE value="more complex regular expression" />
     <MESSAGE value="most common words finding data" />
     <MESSAGE value="most common words finding dataSadded new jupyter file. seach most words without articles using import nltk&#10;from nltk.corpus import stopwords" />
-    <option name="LAST_COMMIT_MESSAGE" value="most common words finding dataSadded new jupyter file. seach most words without articles using import nltk&#10;from nltk.corpus import stopwords" />
+    <MESSAGE value="using analyzer.polarity_scores" />
+    <option name="LAST_COMMIT_MESSAGE" value="using analyzer.polarity_scores" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
